@@ -30,10 +30,11 @@ public class Principal {
     public void exibeMenu() throws JsonProcessingException {
         int opcao;
         String menu = """
-                1 - Buscar nome do livro
+                \n1 - Buscar nome do livro
                 2 - Listar livros registrados
                 3 - Listar Autores
-                4 - Listar Autores vivos em determinado ano\n         
+                4 - Listar Autores vivos em determinado ano
+                5 - Listar Livros em determinado Idioma\n         
                 0 - Sair
                     """;
 
@@ -58,6 +59,7 @@ public class Principal {
                 case 5:
                     listarLivrosPorIdioma();
                     break;
+
             }
         } while (opcao != 0);
 
