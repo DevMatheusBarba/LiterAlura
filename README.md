@@ -21,11 +21,11 @@ Os livros e autores serão buscados através da API Pública [Gutendex](https://
 - API [Gutendex](https://gutendex.com/)
 
 ### Resultado
-![Menu](https://github.com/DevMatheusBarba/LiterAlura/assets/menu.png)
+![Menu](https://github.com/DevMatheusBarba/LiterAlura/blob/main/assets/menu.PNG)
 
-![Pastas pacotes e arquivos e classes do projeto](https://github.com/DevMatheusBarba/LiterAlura/assets/Classes.png)
+![Pastas pacotes e arquivos e classes do projeto](https://github.com/DevMatheusBarba/LiterAlura/blob/main/assets/Classes.PNG)
 
-![Livros](https://github.com/DevMatheusBarba/LiterAlura/assets/consulta-livros.png)
+![Livros](https://github.com/DevMatheusBarba/LiterAlura/blob/main/assets/consulta-livros.PNG)
 
 ### Instalação
 Para executar a aplicação localmente, siga estas etapas:
